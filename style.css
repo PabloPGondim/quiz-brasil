@@ -128,4 +128,8 @@ body{
     .mistakes{
         margin-top: 11rem;
     }
+    .see-result{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
   }
